@@ -1,4 +1,4 @@
-# County_Pres_Election_Modeling
+# County-Level Presidential Election Modeling
 
 ## Overview
 
