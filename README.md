@@ -1,5 +1,7 @@
 # County-Level Presidential Election Modeling
 
+![white_house](images/White_House_Washington.jpeg)
+
 ## Overview
 
 I was tasked with creating a model to predict which party will win more votes in a county in a United States presidential election based on various demographic features of that county. This model can be used by political parties to identify emerging counties of interest in the lead-up to an election to help guide their decisions on where to allocate advertising, field organizing, and other resources.
