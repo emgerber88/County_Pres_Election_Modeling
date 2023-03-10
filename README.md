@@ -4,6 +4,8 @@
 
 ## Overview
 
+**Note: This project is for academic purposes only, and is not intended as an endorsement of any political party.**
+
 I was tasked with creating a model to predict which party will win more votes in a county in a United States presidential election based on various demographic features of that county. This model can be used by political parties to identify emerging counties of interest in the lead-up to an election to help guide their decisions on where to allocate advertising, field organizing, and other resources.
 
 I used county-level demographic and presidential election data from the US Census Bureau and MIT Election Data + Science Lab that had been consolidated into a single dataset on Kaggle. The data included information from four presidential elections (2008, 2012, 2016, and 2020), each of which took place in a different national political context and with varying levels of national election turnout. In this dataset, a county is assigned a "positive result" (1) if the Republican got the most votes in that county, and a "negative result" (0) if the Democrat got the most votes in that county.
