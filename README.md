@@ -80,3 +80,12 @@ With more time and data, I would like to make the following refinements to the m
 ## Links to Materials
 [Presentation](County_Level_Presidential_Predictions.pdf)  
 [Jupyter Notebook](County_Pres_Election_Modeling.ipynb)
+
+## Repository Structure
+```
+├── Images
+├── .gitignore
+├── County_Level_Presidential_Predictions.pdf
+├── County_Pres_Election_Modeling.ipynb
+└── README.md
+```
