@@ -1,0 +1,38 @@
+Column,Description
+year,Year
+county_fips,County FIP Code
+inctot,Average Annual Income of Individuals
+mortamt1,Average Amount Of Mortgage Payments
+avrg_age,Average Age
+ftotinc,Average Annual Total Family Income
+foodstmp_1_freq,% of Individuals Who Did Not Receive Foodstamps
+foodstmp_2_freq,% of Individuals Who Received Foodstamps
+sex_2_freq,% of Females
+sex_1_freq,% of Males
+marst_5_freq,% Widowed
+marst_6_freq,% Never Married
+marst_1_freq,% Married Spouse Present
+marst_4_freq,% Divorced
+marst_3_freq,% Seperated
+marst_2_freq,% Married Spouse Absent
+race_1_freq,% White
+race_2_freq,% Black/African American
+race_7_freq,% Other Race
+race_8_freq,% Two major Races
+race_5_freq,% Japanese
+race_6_freq,% Other Asian
+race_3_freq,% American Indian or Alaska Native
+race_4_freq,% Chinese
+race_9_freq,% Three or More Races
+ctz_stat_1_freq,% Citizen
+ctz_stat_3_freq,% Non-Citizen
+ctz_stat_2_freq,% Naturalized Citizen
+lang_1_freq,% English Is Spoken At Home
+lang_2_freq,% Another Language Is Spoken At Home
+educ_attain_2.0_freq,% Some College or Bachelor Degree 
+educ_attain_1.0_freq,% High School or Lower Education
+educ_attain_3.0_freq,% Masters or Professional Certificate
+educ_attain_4.0_freq,% Doctoral Degree
+empstat_1.0_freq,% Employed
+empstat_3.0_freq,% Not In The Labor Force
+empstat_2.0_freq,% Unemployed
